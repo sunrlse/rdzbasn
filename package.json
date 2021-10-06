@@ -1,0 +1,22 @@
+{
+  "dependencies": {
+    "async": "^2.1.4",
+    "bluebird": "^3.4.7",
+    "cheerio": "^0.22.0",
+    "cron": "^1.2.1",
+    "mysql2": "^2.3.0",
+    "superagent": "^3.3.1",
+    "superagent-charset": "^1.1.1"
+  },
+  "name": "crawler",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "start": "node --unhandled-rejections=strict index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "n",
+  "license": "ISC",
+  "description": ""
+}
