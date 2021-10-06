@@ -12,6 +12,7 @@ html、val赋值         -- $(selector).html(xxx) $(selector).val(xxx)
 触发事件              -- $(selector).trigger(buble, event_type)
 注：siblings()， next() 内只能一个基础选择器
 
+```
 
 # book-crawler
 ### 简介
@@ -39,5 +40,5 @@ npm install (安装速度较慢，建议使用cnpm)
 
 ```
 node --harmony index.js <url>
-url表示小说目录页面url， 如 http://www.aiquxs.com/read/41/41742/index.html
+url表示小说目录页面url， 如 http://www.aiquxs.com/xxx
 ```
